@@ -61,6 +61,8 @@
         }
     }
     ?>
+
+    <a href="xssviewpage.php"><button>View Code</button></a>
 </div>
 </body>
 </html>

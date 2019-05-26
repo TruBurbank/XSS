@@ -61,6 +61,7 @@
         }
     }
     ?>
+    <a href="xsspatchviewpage.php"><button>View Code</button></a>
 </div>
 </body>
 </html>
