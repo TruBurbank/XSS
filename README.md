@@ -1,4 +1,4 @@
 # XSS
 
 
-Just a learning project in XSS.
+Learning project in XSS.
